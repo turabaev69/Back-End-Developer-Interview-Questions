@@ -1,7 +1,6 @@
 Back-End Developer Interview Questions
 ======================================
 
-This page has been translated to [Chinese](https://github.com/monklof/Back-End-Developer-Interview-Questions) by [monklof](https://github.com/monklof).
 
 I started writing down this list as my personal notes of topics I discussed with colleagues and friends, and that I wanted to deepen...
 
