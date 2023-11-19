@@ -16,7 +16,6 @@ This project is admittedly inspired by [Front-end Job Interview Questions](https
 I didn't include any.<br/>
 Most of the questions are open-ended, and some of them just don't have a *right* or a *wrong* answer. On the contrary, they are intended to be used as the starting point for a conversation that hopefully tells you more about the person's capabilities than a straight answer would. Personally, I would even choose the questions whose answers are not yet clear to me.
 
-Feel free to open a [Discussion](https://github.com/arialdomartini/Back-End-Developer-Interview-Questions/discussions).
 
 
 
